@@ -1,8 +1,7 @@
 # Unity DRAG & DROP UI
 UI에서의 아이템 드래그 앤 드롭을 구현 방법 입니다.
 ## <Drag & Drop 구현을 위해 필요한 인터페이스>
-#### Unity에서 마우스/터치를 이용해 오브젝트를 제어할 수 있도록 제공하는
-IPointerHandler, IDragHandler, IDropHandler 인터페이스
+Unity에서 마우스/터치를 이용해 오브젝트를 제어할 수 있도록 제공하는 IPointerHandler, IDragHandler, IDropHandler 인터페이스
 #### UnityEngine.EventSystems 이름공간 선언 필요
 ### UI 오브젝트
 #### GraphicRaycaster 컴포넌트 필요 (Canvas 오브젝트)
